@@ -5,6 +5,6 @@ After running, the running parameters will be output in the workspace, and the G
 Attention: include every accelerator and modality!
 
 For multi-level communication, additionally enter the accelerator cluster configuration to run
-Example is the accelerator and modality configuration in paper.
+Example is the accelerator and modality configuration in paper. Energy parameters need to be manually input into the dictionary of self.powerlevel in function getSysPower.
 
 Don't forget to change the path to run on your own equipment.
