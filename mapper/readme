@@ -1,1 +1,5 @@
-
+Modify the last part of the code to run:
+Modality refers to the multimodal neural network that needs to be mapped
+AccsList refers to accelerator configuration
+After running, the running parameters will be output in the workspace, and the Gantt chart will be displayed automatically
+For multi-level communication, additionally enter the accelerator cluster configuration to run
