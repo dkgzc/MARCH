@@ -4,8 +4,8 @@ AccsList refers to accelerator configuration
 After running, the running parameters will be output in the workspace, and the Gantt chart will be displayed automatically
 Attention: include every accelerator and modality!
 
-For multi-level communication, additionally enter the accelerator cluster configuration to run
-Example is the accelerator and modality configuration in paper.
+For multi-level communication, the mode switch is self.multilevel (1 for enable 0 for disable).
+Manually enter of the accelerator cluster configuration is needed to run.
 
 Energy parameters need to be manually input into the dictionary of self.powerlevel in function getSysPower. You can use two model in the energy consumption.
 Both of them are shown in the function getSysPower.
