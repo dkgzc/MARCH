@@ -1,1 +1,2 @@
 If you need to add a new accelerator, add it according to the function configuration of the existing accelerators
+Remember to include it in the optimal.py
