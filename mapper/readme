@@ -7,6 +7,7 @@ Attention: include every accelerator and modality!
 For multi-level communication, additionally enter the accelerator cluster configuration to run
 Example is the accelerator and modality configuration in paper.
 
-Energy parameters need to be manually input into the dictionary of self.powerlevel in function getSysPower. You can use two model in the energy consumption.\Both of them are shown in the function getSysPower.
+Energy parameters need to be manually input into the dictionary of self.powerlevel in function getSysPower. You can use two model in the energy consumption.
+Both of them are shown in the function getSysPower.
 
 Don't forget to change the path to run on your own equipment.
